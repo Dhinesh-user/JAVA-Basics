@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: testCases.TestCase
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 4, Time elapsed: 20.19 s <<< FAILURE! - in testCases.TestCase
+testCases.TestCase.beforeClass  Time elapsed: 19.423 s  <<< FAILURE!
+io.github.bonigarcia.wdm.config.WebDriverManagerException: org.apache.hc.core5.http.ConnectionClosedException: Premature end of Content-Length delimited message body (expected: 9600466; received: 9401856)
+	at testCases.TestCase.beforeClass(TestCase.java:162)
+Caused by: org.apache.hc.core5.http.ConnectionClosedException: Premature end of Content-Length delimited message body (expected: 9600466; received: 9401856)
+	at testCases.TestCase.beforeClass(TestCase.java:162)
+

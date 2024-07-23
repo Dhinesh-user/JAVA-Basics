@@ -1,0 +1,10 @@
+pages\ShoppingCartPage.class
+pages\TeesPage.class
+base\Base$1.class
+pages\CreateAccount.class
+pages\HomePage.class
+pages\SignInPage.class
+pages\CheckoutPage.class
+pages\MyOrderPage.class
+base\Base.class
+pages\MyAccountPage.class
