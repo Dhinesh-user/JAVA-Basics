@@ -1,0 +1,4 @@
+2024-07-15 19:06:11 INFO  PropertyLog4JEx:14 - This is Info
+2024-07-15 19:06:11 WARN  PropertyLog4JEx:15 - This is Warn
+2024-07-15 19:06:11 ERROR PropertyLog4JEx:16 - This is Error
+2024-07-15 19:06:11 FATAL PropertyLog4JEx:17 - This is Fatal
