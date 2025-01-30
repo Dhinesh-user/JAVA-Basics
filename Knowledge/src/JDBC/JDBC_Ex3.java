@@ -9,11 +9,13 @@ import java.sql.Statement;
 public class JDBC_Ex3 {
 
 	public static void main(String[] args) throws ClassNotFoundException, Exception {
+		
+		String pw = "AVNS_IzSQK5NvZKzHOJ7MO1o";
 //		try (final Connection connection =
 //                DriverManager.getConnection("jdbc:postgresql:"
 //                		+ "//pg-19223ace-db-demo.h.aivencloud.com:21376/"
 //                		+ "defaultdb?ssl=require&user=avnadmin&password="
-//                		+ "AVNS_IzSQK5NvZKzHOJ7MO1o"
+//                		+ "+pw+"
 //                		+ "");
 //        final Statement statement = connection.createStatement();
 //        final ResultSet resultSet = 
